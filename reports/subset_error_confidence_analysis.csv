@@ -1,0 +1,23 @@
+true_class,predicted_class,is_correct,prediction_confidence,actual_class_probability,second_class,second_class_probability,confidence_margin
+Tomato___Late_blight,Tomato___Early_blight,False,84.494,1.983,Tomato___Tomato_Yellow_Leaf_Curl_Virus,3.997,80.497
+Tomato___Late_blight,Tomato___Early_blight,False,55.189,39.565,Tomato___Late_blight,39.565,15.624
+Tomato___Late_blight,Tomato___Early_blight,False,83.694,8.0,Tomato___Late_blight,8.0,75.694
+Tomato___Late_blight,Tomato___Early_blight,False,78.758,20.594,Tomato___Late_blight,20.594,58.164
+Tomato___Late_blight,Tomato___Early_blight,False,51.988,9.922,Potato___Late_blight,38.009,13.98
+Tomato___Late_blight,Tomato___Early_blight,False,36.703,30.268,Tomato___Late_blight,30.268,6.435
+Tomato___Late_blight,Tomato___Early_blight,False,82.716,9.379,Tomato___Late_blight,9.379,73.336
+Tomato___Late_blight,Tomato___Early_blight,False,47.576,39.571,Tomato___Late_blight,39.571,8.005
+Tomato___Late_blight,Tomato___Early_blight,False,77.216,22.534,Tomato___Late_blight,22.534,54.681
+Tomato___Late_blight,Tomato___Early_blight,False,56.746,26.347,Tomato___Late_blight,26.347,30.399
+Tomato___Late_blight,Tomato___Early_blight,False,50.415,25.54,Tomato___Late_blight,25.54,24.876
+Tomato___Late_blight,Tomato___Early_blight,False,52.801,8.381,Tomato___Target_Spot,13.517,39.284
+Tomato___Late_blight,Tomato___Early_blight,False,30.809,6.035,Tomato___Leaf_Mold,14.722,16.088
+Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,False,80.976,9.763,Tomato___Target_Spot,9.763,71.212
+Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,False,84.132,15.653,Tomato___Target_Spot,15.653,68.48
+Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,False,50.446,49.147,Tomato___Target_Spot,49.147,1.299
+Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,False,94.226,5.519,Tomato___Target_Spot,5.519,88.707
+Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,False,63.118,35.652,Tomato___Target_Spot,35.652,27.465
+Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,False,51.915,47.388,Tomato___Target_Spot,47.388,4.528
+Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,False,67.669,27.238,Tomato___Target_Spot,27.238,40.431
+Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,False,41.147,7.88,Cherry___healthy,10.234,30.914
+Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,False,83.11,14.298,Tomato___Target_Spot,14.298,68.813

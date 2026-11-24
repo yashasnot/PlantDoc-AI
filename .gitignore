@@ -1,0 +1,44 @@
+# Python environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.backup
+
+# Dataset and downloaded data
+data/
+datasets/
+PlantVillage/
+
+# Local dataset manifests and image-level evaluation records
+reports/plantvillage_split.csv
+reports/subset_15class_predictions.csv
+reports/subset_accepted_errors.csv
+reports/subset_reliability_predictions.csv
+
+# Dataset sample images
+reports/misclassified_samples_contact_sheet.jpg

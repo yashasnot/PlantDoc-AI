@@ -1,0 +1,37 @@
+{
+    "evaluation_scope": {
+        "dataset": "Local PlantVillage 15-class validation subset",
+        "classifier_output_classes": 38,
+        "validation_samples": 3089
+    },
+    "classification": {
+        "accuracy_pct": 95.14
+    },
+    "reliability": {
+        "Supported": {
+            "count": 2330,
+            "coverage_pct": 75.43,
+            "accuracy_pct": 99.61
+        },
+        "Provisional": {
+            "count": 449,
+            "coverage_pct": 14.54,
+            "accuracy_pct": 90.65
+        },
+        "Abstain": {
+            "count": 310,
+            "coverage_pct": 10.04,
+            "accuracy_pct": 68.06
+        }
+    },
+    "accepted_predictions": {
+        "count": 2779,
+        "coverage_pct": 89.96,
+        "accuracy_pct": 98.16,
+        "incorrect_count": 51
+    },
+    "out_of_subset": {
+        "count": 21,
+        "percentage": 0.68
+    }
+}

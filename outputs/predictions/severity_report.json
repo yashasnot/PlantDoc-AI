@@ -1,0 +1,6 @@
+{
+    "estimated_severity_percentage": 99.98571020291513,
+    "severity_category": "Very High",
+    "method": "HSV heuristic lesion localization",
+    "validated_ground_truth": false
+}

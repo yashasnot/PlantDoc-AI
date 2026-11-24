@@ -1,0 +1,7 @@
+Condition,Prediction,Confidence
+Original,Peach___Bacterial_spot,99.97
+Low Brightness,Peach___Bacterial_spot,99.86
+High Brightness,Peach___Bacterial_spot,99.82
+Low Contrast,Peach___Bacterial_spot,99.86
+High Contrast,Peach___Bacterial_spot,99.98
+Gaussian Blur,Peach___Bacterial_spot,85.27

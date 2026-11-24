@@ -1,0 +1,10 @@
+{
+    "accuracy": 0.9699828473413379,
+    "precision": 0.9613600283495977,
+    "recall": 0.9631898349690089,
+    "f1_score": 0.9618143350236107,
+    "best_validation_accuracy": 0.9695518723143033,
+    "epochs": 5,
+    "num_classes": 38,
+    "test_images": 8162
+}

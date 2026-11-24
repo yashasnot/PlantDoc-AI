@@ -1,0 +1,16 @@
+true_class,total_samples,accuracy,supported,provisional,abstain,supported_rate,provisional_rate,abstain_rate
+Tomato___Target_Spot,210,86.67,64,76,70,30.48,36.19,33.33
+Tomato___Late_blight,286,87.41,147,74,65,51.4,25.87,22.73
+Tomato___Early_blight,150,89.33,93,33,24,62.0,22.0,16.0
+Potato___healthy,22,90.91,15,3,4,68.18,13.64,18.18
+Tomato___Spider_mites Two-spotted_spider_mite,251,94.42,182,40,29,72.51,15.94,11.55
+Tomato___Bacterial_spot,319,94.67,251,41,27,78.68,12.85,8.46
+Tomato___Septoria_leaf_spot,265,95.09,187,48,30,70.57,18.11,11.32
+Tomato___Leaf_Mold,142,95.77,119,14,9,83.8,9.86,6.34
+Tomato___Tomato_mosaic_virus,55,96.36,38,15,2,69.09,27.27,3.64
+"Pepper,_bell___Bacterial_spot",149,97.32,116,21,12,77.85,14.09,8.05
+Potato___Late_blight,150,98.0,124,16,10,82.67,10.67,6.67
+"Pepper,_bell___healthy",221,98.64,183,29,9,82.81,13.12,4.07
+Tomato___healthy,238,99.16,200,27,11,84.03,11.34,4.62
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,481,99.17,466,9,6,96.88,1.87,1.25
+Potato___Early_blight,150,100.0,145,3,2,96.67,2.0,1.33
