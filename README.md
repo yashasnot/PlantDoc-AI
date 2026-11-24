@@ -1,4 +1,5 @@
 # PlantDoc AI 🌿
+[🚀 Live Demo](https://plantdoc-ai-zulmw2exscqtmk6lyxxqrd.streamlit.app/) | [💻 GitHub Repository](https://github.com/yashasnot/PlantDoc-AI)
 
 **An AI-powered plant disease analysis system** integrating deep learning-based disease classification, visual explainability, leaf segmentation, lesion localization, severity estimation, and prediction reliability assessment.
 
